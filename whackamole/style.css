@@ -1,0 +1,28 @@
+body {
+  background-color: orange;
+}
+
+main {
+  display: flex;
+  background-color: orangered;
+  align-items: center;
+  width: 600px;
+  height: 600px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.hole {
+  display: flex;
+  flex-wrap: wrap;
+  width: 200px;
+  height: 200px;
+  background: black;
+  border-radius: 50%;
+}
+
+.worm {
+  background-image: url("https://i.gifer.com/origin/c0/c08d5fa476a69c8e0d632f4c69b1dd5c.gif");
+  background-size: cover;
+ 
+}
